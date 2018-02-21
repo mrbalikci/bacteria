@@ -3,7 +3,6 @@
 # import necessary libraries
 import pandas as pd
 import json
-import numpy as np
 
 from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
