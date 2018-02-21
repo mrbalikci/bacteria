@@ -113,4 +113,4 @@ def sample(id):
     return jsonify(samples_data_dic)
 
 if __name__ == "__main__":
-    app.run(debug=True, port=9000)
+    app.run()
